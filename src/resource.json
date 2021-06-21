@@ -1,5 +1,18 @@
 [
   {
+    "name": "Honeymoon Token",
+    "name_en": "Honeymoon Token",
+    "desc": "的大胆资产",
+    "desc_en": "Reflection moonshot token with auto-LP feature.",
+    "url": "https://honeymoontoken.com/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/HoneyMoonToken.png",
+    "image": "",
+    "tag_es": "More",
+    "des_es": "na"
+  },
+  {
     "name": "Daohaus",
     "name_en": "Daohaus",
     "desc": "神奇的互联网社区的无码 DAO 平台",
