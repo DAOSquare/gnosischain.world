@@ -294,6 +294,17 @@
     "des_es": "Contrato permanente descentralizado para cada activo."
   },
   {
+    "name": "DIA",
+    "name_en": "DIA",
+    "desc": "分散式金融的开源数据",
+    "desc_en": "Open-Source Oracles for Decentralised Finance.",
+    "url": "https://diadata.org/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/DIA.png",
+    "image": ""
+  },
+  {
     "name": "SushiSwap",
     "name_en": "SushiSwap",
     "desc": "跨链的去中心化交易所",
