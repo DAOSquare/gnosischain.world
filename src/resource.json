@@ -2795,5 +2795,16 @@
     "tag_en": "More",
     "logo": "/images/Etherboard.jpeg",
     "image": ""
-  }
+  },
+  {
+    "name": "FoxWallet",
+    "name_en": "FoxWallet",
+    "desc": "安全好用的去中心化 Web3 钱包，致力于成为 Web3 世界的入口和连接器",
+    "desc_en": "Safe and easy-to-use decentralized Web3 wallet, dedicated to creating an entrance and connection to the Web3 world",
+    "url": "https://foxwallet.com/en",
+    "tag": "钱包",
+    "tag_en": "Wallet",
+    "logo": "/images/FoxWalletlogo.png",
+    "image": ""
+}
 ]
