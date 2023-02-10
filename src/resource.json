@@ -210,19 +210,6 @@
     "des_es": "Convierte xDai nativo en un contenedor xDai que envuelve wxDai"
   },
   {
-    "name": "Sablier",
-    "name_en": "Sablier",
-    "desc": "流支付",
-    "desc_en": "Streaming money",
-    "url": "https://sablier-xdai.on.fleek.co/#/",
-    "tag": "基础设施",
-    "tag_en": "Infrastructure",
-    "logo": "/images/Sablier.png",
-    "image": "",
-    "tag_es": "Infrastructure",
-    "des_es": "Liquidez"
-  },
-  {
     "name": "ARTIS Bridge",
     "name_en": "ARTIS Bridge",
     "desc": "一个连接 ARTIS 和 xDai 链的 Token 跨链桥。",
@@ -753,7 +740,7 @@
     "name_en": "Tornado.cash",
     "desc": "以太坊上的非托管匿名交易。",
     "desc_en": "Non-custodial anonymous transactions on Ethereum.",
-    "url": "https://tornado.cash/",
+    "url": "https://ipfs.io/ipns/tornadocash.eth/",
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/TornadoCash.jpeg",
@@ -852,7 +839,7 @@
     "name_en": "O3 Swap",
     "desc": "Web3的互操作聚合协议。",
     "desc_en": "Interoperability Aggregation Protocol of Web3",
-    "url": "hhttps://o3.network/#/",
+    "url": "https://o3.network/#/",
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/O3swap.jpeg",
@@ -973,19 +960,6 @@
     "image": "",
     "tag_es": "NFT",
     "des_es": "Mercado NFT"
-  },
-  {
-    "name": "Unifty",
-    "name_en": "Unifty",
-    "desc": "NFT项目中心，用于定制收益农场和收藏",
-    "desc_en": "NFT project hub for custom farms and collections.",
-    "url": "https://unifty.io/xdai/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/Unifty.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Concentrador de proyecto NFT para campos y colecciones personalizados."
   },
   {
     "name": "TokenUp",
@@ -1193,17 +1167,6 @@
     "image": ""
   },
   {
-    "name": "Gnosis Tigers",
-    "name_en": "Gnosis Tigers",
-    "desc": "老虎从二维到三维的转变",
-    "desc_en": "Transformable NFT from 2D to 3D",
-    "url": "https://www.xdaitigers.com/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/gnosistigers.png",
-    "image": ""
-  },
-  {
     "name": "Knockoff",
     "name_en": "Knockoff",
     "desc": "用户可以使用 Knockoff NFT 拷贝已有的 NFT",
@@ -1337,19 +1300,6 @@
     "image": "",
     "tag_es": "Community Engagement",
     "des_es": "Plataforma de donación de caridad comunitaria"
-  },
-  {
-    "name": "HiveShares",
-    "name_en": "HiveShares",
-    "desc": "在 xDai 上构建的基于社区的新项目孵化器",
-    "desc_en": "Community Powered xDai chain incubator for new projects.",
-    "url": "https://hiveshares.finance/",
-    "tag": "社区",
-    "tag_en": "Community Engagement",
-    "logo": "/images/HiveShares.png",
-    "image": "",
-    "tag_es": "Community Engagement",
-    "des_es": "Incubadora de cadena xDai de la comunidad que impulsa nuevos proyectos."
   },
   {
     "name": "SHΞ",
@@ -1773,7 +1723,7 @@
     "name_en": "AnyBlock Analytics",
     "desc": "网络指标仪表板",
     "desc_en": "Network Metric Dashboards",
-    "url": "https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/",
+    "url": "https://blockdaemon.com/protocols/gnosis-beacon/",
     "tag": "分析",
     "tag_en": "Analytics",
     "logo": "/images/AnyBlockAnalytics.png",
@@ -1897,7 +1847,7 @@
     "name_en": "DexWallet",
     "desc": "DexWallet 是一个安全、多链的移动钱包，即将推出移动端一键兑换功能",
     "desc_en": "DexWallet is a secure, multi-chain, mobile wallet with an upcoming one-click exchange feature for mobile.",
-    "url": "https://apps.apple.com/us/app/dexwallet/id1434816150?ls=1",
+    "url": "https://www.dexwallet.io/",
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/DexWallet.png",
@@ -1956,17 +1906,6 @@
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/MyCrypto.png",
-    "image": ""
-  },
-  {
-    "name": "Nifty Wallet",
-    "name_en": "Nifty Wallet",
-    "desc": "MetaMask 的替代方案，内置 xDai 支持和合约互动功能",
-    "desc_en": "Alternative to MetaMask web3 wallet with built-in xDai support and contract interaction functionality",
-    "url": "https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en",
-    "tag": "钱包",
-    "tag_en": "Wallets",
-    "logo": "/images/NiftyWallet.png",
     "image": ""
   },
   {
@@ -2080,17 +2019,6 @@
     "image": ""
   },
   {
-    "name": "Coin98",
-    "name_en": "Coin98",
-    "desc": "非托管、多链钱包和 DeFi 网关",
-    "desc_en": "A Non-Custodial, Multi-Chain Wallet & DeFi Gateway",
-    "url": "https://coin98insights.com/",
-    "tag": "钱包",
-    "tag_en": "Wallets",
-    "logo": "/images/coin98_wallet.jpeg",
-    "image": ""
-  },
-  {
     "name": "Rabby",
     "name_en": "Rabby",
     "desc": "为 DeFi 用户提供更好的扩展钱包",
@@ -2194,7 +2122,7 @@
     "name_en": "QuikNode",
     "desc": "开发人员可以为DApps或其他需求获得自己的自定义端点",
     "desc_en": "Devs can get their own custom endpoint for DApps or other needs",
-    "url": "https://blog.quiknode.io/xdai-network-is-live-on-quiknode",
+    "url": "https://www.quicknode.com/docs/gnosis",
     "tag": "节点提供商",
     "tag_en": "Node providers",
     "logo": "/images/quicknode.jpeg",
@@ -2432,19 +2360,6 @@
     "image": "",
     "tag_es": "More",
     "des_es": "Contenido, aplicaciones y gestión comunitaria"
-  },
-  {
-    "name": "CryptoSurvey",
-    "name_en": "CryptoSurvey",
-    "desc": "激励性的调查",
-    "desc_en": "Incentivized surveys",
-    "url": "https://dapp.cryptosurvey.market/surveys",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "/images/CryptoSurvey.png",
-    "image": "",
-    "tag_es": "More",
-    "des_es": "Encuesta de incentivos"
   },
   {
     "name": "HAL",
