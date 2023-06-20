@@ -1,5 +1,17 @@
 [
   {
+    "name": "CharmVerse",
+    "name_en": "CharmVerse",
+    "desc": "CharmVerse is the ultimate operational and community management solution. Token-gating, member directories, forums, proposals, bounties, and more. Seamlessly collaborate and engage with your community. Power up your team with CharmVerse.",
+    "desc_en": "CharmVerse is the ultimate operational and community management solution. Token-gating, member directories, forums, proposals, bounties, and more. Seamlessly collaborate and engage with your community. Power up your team with CharmVerse.",
+    "url": "https://www.charmverse.io/",
+    "logo": "public/images/CharmVerse/CharmvVerse.png",
+    "image": "public/images/CharmVerse/CharmvVerse.png",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources"
+  },
+
+  {
     "name": "Daohaus",
     "name_en": "Daohaus",
     "desc": "神奇的互联网社区的无码 DAO 平台",
