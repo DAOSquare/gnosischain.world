@@ -2800,5 +2800,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/WhatToFarm.png",
     "image": ""
+  },
+  {
+    "name": "1inch Wallet",
+    "name_en": "1inch Wallet",
+    "desc": "内容、应用程序和社区管理",
+    "desc_en": "Non-custodial wallet for iOs and Android. Powered by 1inch",
+    "url": "https://1inch.io/wallet/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/1inch.jpeg",
+    "image": ""
   }
 ]
