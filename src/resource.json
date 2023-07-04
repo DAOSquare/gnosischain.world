@@ -2811,5 +2811,16 @@
     "tag_en": "Wallets",
     "logo": "/images/1inch.jpeg",
     "image": ""
+  },
+  {
+    "name": "Hologram AI Art",
+    "name_en": "Hologram AI Art",
+    "desc": "释放生成式人工智能的力量来创造艺术和 NFT",
+    "desc_en": "Unleash the power of Generative AI to create art and NFT",
+    "url": "https://tryhologram.art/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/Hologram.png",
+    "image": "",
   }
 ]
