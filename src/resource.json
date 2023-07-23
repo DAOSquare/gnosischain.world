@@ -2822,5 +2822,16 @@
     "tag_en": "NFT",
     "logo": "/images/Hologram.jpg",
     "image": ""
+  },
+  {
+    "name": "Nimbus",
+    "name_en": "Nimbus",
+    "desc": "A personalized Web3 portfolio tool for DeFi users.",
+    "desc_en": "A personalized Web3 portfolio tool for DeFi users.",
+    "url": "https://bento.me/getnimbus",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/Nimbus.png",
+    "image": ""
   }
 ]
