@@ -1852,6 +1852,17 @@
     "image": ""
   },
   {
+    "name": "Quarashi Network",
+    "name_en": "Quarashi Network",
+    "desc": "非托管多链加密资产管理器、点对点音频/视频会议和聊天、市场概述、新闻和空投",
+    "desc_en": "Non-custodial MultiChain Crypto Assets Manager, Peer-to-Peer Audio/Video Conferencing & Chat, Markets Overview, News & Airdrops",
+    "url": "https://quarashi.network",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/quarashi.png",
+    "image": "",
+  },
+  {
     "name": "DexWallet",
     "name_en": "DexWallet",
     "desc": "DexWallet 是一个安全、多链的移动钱包，即将推出移动端一键兑换功能",
