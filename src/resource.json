@@ -2237,6 +2237,17 @@
     "image": ""
   },
   {
+    "name": "Yubiai",
+    "name_en": "Yubiai",
+    "desc": "Web3服务市场",
+    "desc_en": "A web3 marketplace for services.",
+    "url": "https://app.yubiai.market/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/yubiai.png",
+    "image": ""
+  },
+  {
     "name": "0xMonero",
     "name_en": "0xMonero",
     "desc": "使用 zk-SNARKs 和 0xMixer 的隐私 Token",
@@ -2843,17 +2854,6 @@
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/Nimbus.png",
-    "image": ""
-  },
-  {
-    "name": "Yubiai",
-    "name_en": "Yubiai",
-    "desc": "Web3服务市场",
-    "desc_en": "A web3 marketplace for services.",
-    "url": "https://app.yubiai.market/",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "/images/yubiai.png",
     "image": ""
   },
   {
