@@ -2846,6 +2846,17 @@
     "image": ""
   },
   {
+    "name": "Yubiai",
+    "name_en": "Yubiai",
+    "desc": "Web3服务市场",
+    "desc_en": "A web3 marketplace for services.",
+    "url": "https://app.yubiai.market/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/yubiai.png",
+    "image": ""
+  },
+  {
     "name": "Fair Protocol",
     "name_en": "Fair Protocol",
     "desc": "去中心化且无需许可的 IDO/ICO 启动板和代币流动性平台",
