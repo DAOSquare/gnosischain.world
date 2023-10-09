@@ -2844,5 +2844,16 @@
     "tag_en": "DeFi",
     "logo": "/images/Nimbus.png",
     "image": ""
+  },
+  {
+    "name": "Fair Protocol",
+    "name_en": "Fair Protocol",
+    "desc": "去中心化且无需许可的 IDO/ICO 启动板和代币流动性平台",
+    "desc_en": "A decentralised and permissionless IDO/ICO launchpad and token liquidity platform",
+    "url": "https://fairprotocol.eth.limo/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/FairProtocol.png",
+    "image": ""
   }
 ]
