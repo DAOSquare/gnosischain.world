@@ -282,6 +282,17 @@
     "des_es": "Infraestructura de código abierto para datos en tiempo real. Posee, publica y comercializa sus datos. Las tecnologías incluyen la red Pub/ Subp2p, el mercado de datos y el kit de visualización."
   },
   {
+    "name": "Envio",
+    "name_en": "Envio",
+    "desc": "现代 EVM 索引解决方案，可快速灵活地访问实时和历史数据",
+    "desc_en": "Modern EVM indexing solution for fast and flexible access to real-time and historical data.",
+    "url": "https://envio.dev",
+    "logo": "/images/Envio.png",
+    "image": "",
+    "tag": "分析",
+    "tag_en": "Analytics"
+  },
+  {
     "name": "Orchid",
     "name_en": "Orchid",
     "desc": "保持你的数据隐私，并在任何地方访问内容! 下载我们的 VPN，保护你的隐私，自由探索互联网。",
