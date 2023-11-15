@@ -2877,5 +2877,19 @@
     "tag_en": "DeFi",
     "logo": "/images/FairProtocol.png",
     "image": ""
+  },
+  
+  {
+    "name": "NFTs2Me",
+    "name_en": "NFTs2Me",
+    "desc": "NFTs2Me是一个多链用户友好的综合平台，用于创建、部署和管理您的NFT收藏和社群，具有先进功能，完全免费。",
+    "desc_en": "NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, 100% free with advanced functionalities.",
+    "url": "https://nfts2me.com/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/nfts2mex200.png",
+    "image": "",
+    "tag_es": "NFT",
+    "des_es": "NFTs2Me es una plataforma integral y fácil de usar en varias blockchain para crear, implementar y gestionar tu colección y comunidad de NFT, 100% gratuita y con funcionalidades avanzadas."
   }
 ]
