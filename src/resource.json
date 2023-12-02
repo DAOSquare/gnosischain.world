@@ -107,25 +107,14 @@
     "image": ""
   },
   {
-    "name": "xpollinate",
-    "name_en": "xpollinate",
+    "name": "Connext",
+    "name_en": "Connext",
     "desc": "",
     "desc_en": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
-    "url": "https://xpollinate.io/",
+    "url": "https://bridge.connext.network/",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
-    "logo": "/images/xpollinate.jpg",
-    "image": ""
-  },
-  {
-    "name": "Staking on xDai",
-    "name_en": "Staking on xDai",
-    "desc": "在xDai上质押你的STAKE!",
-    "desc_en": "Stake your STAKE on xDai!",
-    "url": "https://blockscout.com/xdai/mainnet/validators",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/xDai.png",
+    "logo": "/images/connext.png",
     "image": ""
   },
   {
@@ -188,10 +177,10 @@
     "name_en": "Developer Resources",
     "desc": "一般信息和链接",
     "desc_en": "General Information and Links",
-    "url": "https://www.xdaichain.com/for-developers/developer-resources",
+    "url": "https://docs.gnosischain.com/developers/",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
-    "logo": "/images/xDai.png",
+    "logo": "/images/Gnosis_200x200.png",
     "image": ""
   },
   {
@@ -339,18 +328,7 @@
     "url": "https://dappnode.io",
     "tag": "基础设施",
     "tag_en": "Infrastructure",
-    "logo": "/images/DAppNode.jpeg",
-    "image": ""
-  },
-  {
-    "name": "WPSmartContracts",
-    "name_en": "WPSmartContracts",
-    "desc": "WordPress 的智能合约插件 - 让区块链变得简单",
-    "desc_en": "Smart Contracts plugin for WordPress - Blockchain Made Easy",
-    "url": "https://wpsmartcontracts.com/networks/xdai-chain/",
-    "tag": "基础设施",
-    "tag_en": "Infrastructure",
-    "logo": "/images/wps.png",
+    "logo": "/images/Dappnode.png",
     "image": ""
   },
   {
@@ -512,7 +490,7 @@
     "name_en": "pNetwork",
     "desc": "BTC 跨链",
     "desc_en": "Cross-chain pBTC",
-    "url": "https://p.network/network",
+    "url": "https://p.network/",
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/pNetwork.png",
@@ -681,7 +659,7 @@
     "name_en": "Curve",
     "desc": "使用先进的绑定曲线创建深度链上流动性",
     "desc_en": "Creating deep on-chain liquidity using advanced bonding curves",
-    "url": "https://xdai.curve.fi/",
+    "url": "https://curve.fi/#/xdai/pools",
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/CurveFinance.jpeg",
@@ -714,7 +692,7 @@
     "name_en": "CowSwap",
     "desc": "MEV 保护交易的 COW（需求巧合）",
     "desc_en": "COWs (Coincidence of Wants) for MEV protected trades.",
-    "url": "https://cowswap.exchange",
+    "url": "https://swap.cow.fi/",
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/CowSwap.svg",
@@ -822,17 +800,6 @@
     "image": ""
   },
   {
-    "name": "Glufco",
-    "name_en": "Glufco",
-    "desc": "委内瑞拉用户可以使用Glufco将Bolivars转为xDai，并使用稳定币进行购买、p2p交易及其他种类的支付",
-    "desc_en": "lets users in Venezuela convert Bolivars to xDai and use a stable currency for purchases, p2p transfers, and any other types of payments",
-    "url": " https://glufco.com/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/Glufco.png",
-    "image": ""
-  },
-  {
     "name": "DeHive",
     "name_en": "DeHive",
     "desc": "即使您的交易经验为零，DeHive 也可以帮助任何人获得加密货币的最大年收益",
@@ -932,69 +899,17 @@
     "image": ""
   },
   {
-    "name": "Li.Finance",
-    "name_en": "Li.Finance",
+    "name": "Jumper",
+    "name_en": "Jumper",
     "desc": "帮助 DEX、dApp 和钱包提供跨链交换 - 具有 DEX 连接性的终极桥接聚合",
-    "desc_en": "Helping DEXs, dApps & Wallets to offer cross-chain swaps - Ultimate bridge aggregation with DEX-connectivity",
-    "url": "https://li.finance/?fromChain=dai",
+    "desc_en": "Multi-chain liquidity aggregator powered by LI.FI",
+    "url": "https://jumper.exchange/",
     "tag": "DeFi",
     "tag_en": "DeFi",
-    "logo": "/images/lifi.png",
+    "logo": "/images/Jumper.jpg",
     "image": ""
   },
-  {
-    "name": "Cargo",
-    "name_en": "Cargo",
-    "desc": "",
-    "desc_en": "Create, share, sell and buy digital collectibles",
-    "url": "https://cargo.build/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/Cargo.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Crear, compartir, vender y comprar colecciones digitales"
-  },
-  {
-    "name": "Unique.one",
-    "name_en": "Unique.one",
-    "desc": "NFT 交易市场",
-    "desc_en": "NFT Marketplace",
-    "url": "https://xdai.unique.one/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/UniqueOne.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Mercado NFT"
-  },
-  {
-    "name": "Eporio",
-    "name_en": "Eporio",
-    "desc": "NFT 交易市场",
-    "desc_en": "NFT Marketplace",
-    "url": "https://epor.io/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/Eporio.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Mercado NFT"
-  },
-  {
-    "name": "TokenUp",
-    "name_en": "TokenUp",
-    "desc": "创建及交易 NFT",
-    "desc_en": "Create, buy and sell NFTs",
-    "url": "https://www.tokenup.app/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/TokenUp.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Crear, comprar y vender NFT"
-  },
-  {
+   {
     "name": "SNAFU",
     "name_en": "SNAFU",
     "desc": "数字艺术家联盟",
@@ -1073,32 +988,6 @@
     "des_es": "Mantenga el tablero como NFT"
   },
   {
-    "name": "Unique Bubbles",
-    "name_en": "Unique Bubbles",
-    "desc": "由社区创造和拥有的限量、独特和个性化的NFT",
-    "desc_en": "Limited, unique and personalized NFTs created and owned by the community.",
-    "url": "https://uniquebubbles.com/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/UniqueBubbles.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "NFT limitado, único y personalizado creado y propiedad de la comunidad."
-  },
-  {
-    "name": "Reality Cards",
-    "name_en": "Reality Cards",
-    "desc": "Reality Cards 是预测市场和 NFT 的独特混合体",
-    "desc_en": "Reality Cards is a unique hybrid of prediction markets and NFTs.",
-    "url": "https://realitycards.io/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/RealityCards.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Reality Cards es una mezcla única de mercados predictivos y NFT."
-  },
-  {
     "name": "Azuro",
     "name_en": "Azuro",
     "desc": "去中心化投注的基础层。 构建您自己的投注应用程序，由 Azuro 的定价、流动市场提供支持",
@@ -1132,25 +1021,14 @@
     "image": ""
   },
   {
-    "name": "Project Galaxy",
-    "name_en": "Project Galaxy",
+    "name": "Galxe",
+    "name_en": "Galxe",
     "desc": "用#NFT模块为链上凭证提供动力。",
     "desc_en": "Powering on-chain credentials with #NFT modules.",
-    "url": "https://galaxy.eco",
+    "url": "https://galxe.com/",
     "tag": "NFT",
     "tag_en": "NFT",
-    "logo": "/images/ProjectGalaxy.jpeg",
-    "image": ""
-  },
-  {
-    "name": "Cold Truth Culture",
-    "name_en": "Cold Truth Culture",
-    "desc": "NFT艺术家和收藏家的区块链社区DAO, 向CTC工作人员提交和申请艺术品设计",
-    "desc_en": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew",
-    "url": "https://www.coldtruthculture.io/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/ColdTruthCulture.jpeg",
+    "logo": "/images/Galxe.png",
     "image": ""
   },
   {
@@ -1176,11 +1054,11 @@
     "image": ""
   },
   {
-    "name": "xDaiPunks",
-    "name_en": "xDaiPunks",
+    "name": "VoxelPunks",
+    "name_en": "VoxelPunks",
     "desc": "xDai 区块链上的朋克",
-    "desc_en": "Punks on the xDai blockchain",
-    "url": "https://xdaipunks.com/",
+    "desc_en": "VoxelPunks is an enthralling collection of 3D Punk NFTs housed on the Gnosis blockchain.",
+    "url": "https://voxelpunks.com/gc",
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/xDaiPunks.png",
@@ -1244,19 +1122,6 @@
     "des_es": "Acuerdo de prueba de asistencia (NFT)."
   },
   {
-    "name": "Grassroots Economics",
-    "name_en": "Grassroots Economics",
-    "desc": "肯尼亚的社区货币",
-    "desc_en": "Community Currencies in Kenya",
-    "url": "https://www.xdaichain.com/about-xdai/use-cases/community-currencies",
-    "tag": "社区",
-    "tag_en": "Community Engagement",
-    "logo": "/images/GrassrootsEconomics.png",
-    "image": "",
-    "tag_es": "Community Engagement",
-    "des_es": "Moneda comunitaria de Kenia"
-  },
-  {
     "name": "Galt Project",
     "name_en": "Galt Project",
     "desc": "DAO 治理、UBI",
@@ -1268,19 +1133,6 @@
     "image": "",
     "tag_es": "Community Engagement",
     "des_es": "Gobernanza DAO, UBI"
-  },
-  {
-    "name": "KickBack",
-    "name_en": "KickBack",
-    "desc": "活动管理和可证明的 RSVP",
-    "desc_en": "Event Management and RSVP accountability",
-    "url": "https://xdai.kickback.events/",
-    "tag": "社区",
-    "tag_en": "Community Engagement",
-    "logo": "/images/KickBack.png",
-    "image": "",
-    "tag_es": "Community Engagement",
-    "des_es": "Gestión de eventos y responsabilidad RSVP"
   },
   {
     "name": "EthicHub",
@@ -1331,19 +1183,6 @@
     "tag_en": "Community Engagement",
     "logo": "/images/She_Dapp.jpeg",
     "image": ""
-  },
-  {
-    "name": "Omen Prediction Market",
-    "name_en": "Omen Prediction Market",
-    "desc": "在现有的市场上投注，或用xDai或STAKE创建新的市场",
-    "desc_en": "need web3 wallet enabled, or use a mobile wallet like Alpha or Status): Bet on existing markets or create new ones with xDai or STAKE.",
-    "url": "https://xdai.omen.eth.link/",
-    "tag": "预测市场",
-    "tag_en": "Prediction Markets",
-    "logo": "/images/OmenPredictionMarket.png",
-    "image": "",
-    "tag_es": "Prediction Markets",
-    "des_es": "Necesita habilitar la billetera web3 o usar una billetera móvil como Alpha o Status): apostar en un mercado existente o crear un nuevo mercado con xDai o stake."
   },
   {
     "name": "Reality Cards",
@@ -1452,7 +1291,7 @@
     "name_en": "Linguo by Kleros",
     "desc": "由 Kleros 提供的翻译服务。",
     "desc_en": "Translation service provided by Kleros.",
-    "url": "https://linguo.kleros.io/homet",
+    "url": "https://linguo.kleros.io/home",
     "tag": "治理",
     "tag_en": "Governance",
     "logo": "/images/Linguo.png",
@@ -1713,37 +1552,11 @@
     "des_es": "Verificación de transacciones xDai: los contratos inteligentes también se pueden enviar al tablero para monitoreo en tiempo real"
   },
   {
-    "name": "Chainbeat",
-    "name_en": "Chainbeat",
-    "desc": "DApp 开发者的监控和分析工具",
-    "desc_en": "Monitoring and analytics tools for DApp developers.",
-    "url": "https://chainbeat.io/",
-    "tag": "分析",
-    "tag_en": "Analytics",
-    "logo": "/images/Chainbeat.png",
-    "image": "",
-    "tag_es": "Analytics",
-    "des_es": "Herramientas de monitoreo y análisis de desarrolladores de DApp."
-  },
-  {
-    "name": "LiquidityFolio",
-    "name_en": "LiquidityFolio",
-    "desc": "对不同流动性池资产的比较和预测",
-    "desc_en": "Comparisons and forecasts across liquidity pools assets",
-    "url": "https://www.liquidityfolio.com/#",
-    "tag": "分析",
-    "tag_en": "Analytics",
-    "logo": "/images/LiquidityFolio.png",
-    "image": "",
-    "tag_es": "Analytics",
-    "des_es": "Comparación y pronóstico de activos de grupo de liquidez cruzada"
-  },
-  {
     "name": "AnyBlock Analytics",
     "name_en": "AnyBlock Analytics",
     "desc": "网络指标仪表板",
     "desc_en": "Network Metric Dashboards",
-    "url": "https://blockdaemon.com/protocols/gnosis-beacon/",
+    "url": "https://blockdaemon.com/",
     "tag": "分析",
     "tag_en": "Analytics",
     "logo": "/images/AnyBlockAnalytics.png",
@@ -1944,7 +1757,7 @@
     "name_en": "Poketto Cash",
     "desc": "首选 xDai 的移动钱包，支持 iOS 和 Android",
     "desc_en": "xDai-first Mobile Wallet for iOS and Android",
-    "url": "",
+    "url": "https://poketto.cash/#/",
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/PokettoCash.png",
@@ -2065,7 +1878,7 @@
     "name_en": "okex wallet",
     "desc": "okex钱包",
     "desc_en": "okex wallet",
-    "url": "https://www.okex.com/wallet/",
+    "url": "https://www.okx.com/web3",
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/OKEX.jpeg",
@@ -2105,17 +1918,6 @@
     "image": ""
   },
   {
-    "name": "CryptoBot Wallet",
-    "name_en": "CryptoBot Wallet",
-    "desc": "在您最喜欢的消息应用程序中存储、管理、质押和赚取加密货币",
-    "desc_en": "Store, manage, stake and earn cryptocurrencies from your favorite messaging app!",
-    "url": "https://cryptobot.page/",
-    "tag": "钱包",
-    "tag_en": "Wallets",
-    "logo": "/images/CryptoBot.jpeg",
-    "image": ""
-  },
-  {
     "name": "Cardstack Card Wallet",
     "name_en": "Cardstack Card Wallet",
     "desc": "Web3 的协作操作系统",
@@ -2135,17 +1937,6 @@
     "tag": "存储",
     "tag_en": "Storage",
     "logo": "/images/ethswarm.jpeg",
-    "image": ""
-  },
-  {
-    "name": "SANA",
-    "name_en": "SANA",
-    "desc": "是一个使用容量证明算法的 p2p 存储区域节点网络",
-    "desc_en": "a p2p storage area node network using the Proof of Capacity algorithm",
-    "url": "https://www.ethsana.org/",
-    "tag": "存储",
-    "tag_en": "Storage",
-    "logo": "/images/EthereumSANA.jpeg",
     "image": ""
   },
   {
@@ -2175,7 +1966,7 @@
     "name_en": "GetBlock.io",
     "desc": "提供快速和简单的API连接服务到xDai存档节点。有免费和付费两种级别",
     "desc_en": "provides fast and easy API connection services to an xDai archive node.",
-    "url": "https://getblock.io/nodes/stake",
+    "url": "https://getblock.io/nodes/gno/",
     "tag": "节点提供商",
     "tag_en": "Node providers",
     "logo": "/images/getblockio.jpeg",
@@ -2193,11 +1984,11 @@
     "image": ""
   },
   {
-    "name": "Pocket",
-    "name_en": "Pocket",
+    "name": "Pokt",
+    "name_en": "Pokt",
     "desc": "袖珍去中心化的基础设施，一键式终端和监控",
     "desc_en": "Pocket decentralized infrastructure, 1-click endpoints and monitoring",
-    "url": "https://www.portal.pokt.network",
+    "url": "https://www.pokt.network/",
     "tag": "节点提供商",
     "tag_en": "Node providers",
     "logo": "/images/PocketPortal.png",
@@ -2257,32 +2048,6 @@
     "tag_en": "More",
     "logo": "/images/yubiai.png",
     "image": ""
-  },
-  {
-    "name": "0xMonero",
-    "name_en": "0xMonero",
-    "desc": "使用 zk-SNARKs 和 0xMixer 的隐私 Token",
-    "desc_en": "Privacy tokens with zk-SNARKs and 0xMixer",
-    "url": "https://0xmonero.com/",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "/images/0xMonero.png",
-    "image": "",
-    "tag_es": "More",
-    "des_es": "Banders de privacidad con zk-SNARK y 0xmixer"
-  },
-  {
-    "name": "Dollarcake",
-    "name_en": "Dollarcake",
-    "desc": "在 Youtube 上探索加密货币的奖励",
-    "desc_en": "Youtube crypto rewards",
-    "url": "https://dollarcake.com/",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "/images/Dollarcake.png",
-    "image": "",
-    "tag_es": "More",
-    "des_es": "Recompensa de cifrado Youtube"
   },
   {
     "name": "LinkDrop",
@@ -2419,7 +2184,7 @@
     "name_en": "HAL",
     "desc": "用HAL全栈、无代码、跨链的信息传递自动化平台为Web3到Web2搭建桥梁",
     "desc_en": "Bridge Web3 to Web2 with HAL full stack, no-code, cross-chain messaging automation platform",
-    "url": "https://dappnode.io",
+    "url": "https://www.hal.xyz/",
     "tag": "更多",
     "tag_en": "More",
     "logo": "/images/HAL.jpeg",
@@ -2430,7 +2195,7 @@
     "name_en": "TEC",
     "desc": "👩‍🌾培育TE生态系统🕊️管理公共池",
     "desc_en": "👩‍🌾 Cultivating the TE ecosystem 🕊️ Stewarding the common pool",
-    "url": "https://hatch.tecommons.org/",
+    "url": "https://tecommons.org/",
     "tag": "更多",
     "tag_en": "More",
     "logo": "/images/TEC.png",
@@ -2494,8 +2259,8 @@
   {
     "name": "XP.network NFT Multi-Chain Bridge",
     "name_en": "XP.network NFT Multi-Chain Bridge",
-    "desc": "ERC-721/ERC-1155 桥 xDai <-> Ethereum, BSC, Avalanche, Polygon, Algorand, Fantom, Tron, Elrond, Tezos, Velas, Fuse",
-    "desc_en": "ERC-721/ERC-1155 Bridge xDai <-> Ethereum, BSC, Avalanche, Polygon, Algorand, Fantom, Tron, Elrond, Tezos, Velas, Fuse",
+    "desc": "ERC-721/ERC-1155 桥 Gnosis <-> Ethereum, BSC, Avalanche, Polygon, Algorand, Fantom, Tron, Elrond, Tezos, Velas, Fuse",
+    "desc_en": "ERC-721/ERC-1155 Bridge Gnosis <-> Ethereum, BSC, Avalanche, Polygon, Algorand, Fantom, Tron, Elrond, Tezos, Velas, Fuse",
     "url": "https://bridge.xp.network/",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
@@ -2600,28 +2365,6 @@
     "tag_en": "UBI, Payments, Streaming",
     "logo": "/images/DataUnionDAO.png",
     "image": "/images/DataUnionDAO.png"
-  },
-  {
-    "name": "Gnosis Monkeys",
-    "name_en": "Gnosis Monkeys",
-    "desc": "悟道链上的第一支猴子小队",
-    "desc_en": "The first programmatically generated Monkey squad on Gnosis Chain.",
-    "url": "https://gnosismonkeys.xyz/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/gnosismonkeys.png",
-    "image": ""
-  },
-  {
-    "name": "Flipa",
-    "name_en": "Flipa",
-    "desc": "Gnosis 链上唯一的抛硬币游戏",
-    "desc_en": "The only flip coin game on Gnosis chain",
-    "url": "https://flipa.live",
-    "tag": "游戏",
-    "tag_en": "Games",
-    "logo": "/images/Flipa.png",
-    "image": ""
   },
   {
     "name": "Gnosis Chain Faucet",
