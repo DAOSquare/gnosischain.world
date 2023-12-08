@@ -13,7 +13,7 @@ class NavItemList extends PureComponent {
     }
     const list = (navList || []).filter((item) => item.tag_en === tag);
     let node = [];
-    let len = list.length <= 8 ? 8 : 7;
+    let len = list.length <= 12 ? 12 : 11;
     node = list.slice(0, len).map((item, index) => (
       <> 
         {item.tag_en === "Tools & Resources" && item.name_en === "Switch to GnosisChain" ? <SwitchNetworkItem
