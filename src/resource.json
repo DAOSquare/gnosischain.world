@@ -85,17 +85,6 @@
     "image": ""
   },
   {
-    "name": "CharmVerse",
-    "name_en": "CharmVerse",
-    "desc": "CharmVerse是终极运营和社区管理解决方案。Token门控、会员目录、论坛、建议、赏金等。与您的社区进行无缝协作和互动，用CharmVerse为您的团队提供动力。",
-    "desc_en": "CharmVerse is the ultimate operational and community management solution. Token-gating, member directories, forums, proposals, bounties, and more. Seamlessly collaborate and engage with your community. Power up your team with CharmVerse.",
-    "url": "https://www.charmverse.io/",
-    "logo": "/images/CharmVerse.jpeg",
-    "image": "/images/CharmVerse.jpeg",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources"
-  },
-  {
     "name": "Jumper",
     "name_en": "Jumper",
     "desc": "帮助 DEX、dApp 和钱包提供跨链交换 - 具有 DEX 连接性的终极桥接聚合",
@@ -104,17 +93,6 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/Jumper.jpg",
-    "image": ""
-  },
-  {
-    "name": "Hop Protocol",
-    "name_en": "Hop Protocol",
-    "desc": "bridge",
-    "desc_en": "bridge",
-    "url": "https://hop.exchange/",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/HopProtocol.jpeg",
     "image": ""
   },
   {
@@ -129,17 +107,6 @@
     "image": ""
   },
   {
-    "name": "Ubiquity DevPool",
-    "name_en": "Ubiquity DevPool",
-    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
-    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
-    "url": "https://dao.ubq.fi/devpool",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/Ubq.png",
-    "image": ""
-  },
-  {
     "name": "cBridge from Celer Network",
     "name_en": "cBridge from Celer Network",
     "desc": "多链跨层资产桥接，即时转账，零信任",
@@ -148,6 +115,17 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/CelerNetwork.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Hop Protocol",
+    "name_en": "Hop Protocol",
+    "desc": "bridge",
+    "desc_en": "bridge",
+    "url": "https://hop.exchange/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/HopProtocol.jpeg",
     "image": ""
   },
   {
@@ -181,6 +159,28 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/PolyBridge.svg",
+    "image": ""
+  },
+  {
+    "name": "CharmVerse",
+    "name_en": "CharmVerse",
+    "desc": "CharmVerse是终极运营和社区管理解决方案。Token门控、会员目录、论坛、建议、赏金等。与您的社区进行无缝协作和互动，用CharmVerse为您的团队提供动力。",
+    "desc_en": "CharmVerse is the ultimate operational and community management solution. Token-gating, member directories, forums, proposals, bounties, and more. Seamlessly collaborate and engage with your community. Power up your team with CharmVerse.",
+    "url": "https://www.charmverse.io/",
+    "logo": "/images/CharmVerse.jpeg",
+    "image": "/images/CharmVerse.jpeg",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources"
+  },
+  {
+    "name": "Ubiquity DevPool",
+    "name_en": "Ubiquity DevPool",
+    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
+    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
+    "url": "https://dao.ubq.fi/devpool",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/Ubq.png",
     "image": ""
   },
   {

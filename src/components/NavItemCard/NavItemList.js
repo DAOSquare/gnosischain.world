@@ -13,8 +13,8 @@ class NavItemList extends PureComponent {
     }
     const list = (navList || []).filter((item) => item.tag_en === tag);
     let node = [];
-    let len = list.length <= 12 ? 12 : 11;
-    node = list.slice(0, len).map((item, index) => (
+    // let len = list.length <= 12 ? 12 : 11;
+    node = list.map((item, index) => (
       <> 
         {item.tag_en === "Tools & Resources" && item.name_en === "Switch to GnosisChain" ? <SwitchNetworkItem
           key={index} 
@@ -28,15 +28,15 @@ class NavItemList extends PureComponent {
         }
       </>
     ));
-    if (list.length > 12) {
-      node.push(
-        <NavExpandItem
-          key="NavExpandItem"
-          list={list}
-          language={language}
-        />
-      );
-    }
+    // if (list.length > 12) {
+    //   node.push(
+    //     <NavExpandItem
+    //       key="NavExpandItem"
+    //       list={list}
+    //       language={language}
+    //     />
+    //   );
+    // }
     return node;
   }
 
