@@ -96,6 +96,17 @@
     "tag_en": "Tools & Resources"
   },
   {
+    "name": "Jumper",
+    "name_en": "Jumper",
+    "desc": "帮助 DEX、dApp 和钱包提供跨链交换 - 具有 DEX 连接性的终极桥接聚合",
+    "desc_en": "Multi-chain liquidity aggregator powered by LI.FI",
+    "url": "https://jumper.exchange/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/Jumper.jpg",
+    "image": ""
+  },
+  {
     "name": "Hop Protocol",
     "name_en": "Hop Protocol",
     "desc": "bridge",
@@ -899,17 +910,6 @@
     "image": ""
   },
   {
-    "name": "Jumper",
-    "name_en": "Jumper",
-    "desc": "帮助 DEX、dApp 和钱包提供跨链交换 - 具有 DEX 连接性的终极桥接聚合",
-    "desc_en": "Multi-chain liquidity aggregator powered by LI.FI",
-    "url": "https://jumper.exchange/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/Jumper.jpg",
-    "image": ""
-  },
-   {
     "name": "SNAFU",
     "name_en": "SNAFU",
     "desc": "数字艺术家联盟",
@@ -2621,7 +2621,6 @@
     "logo": "/images/FairProtocol.png",
     "image": ""
   },
-  
   {
     "name": "NFTs2Me",
     "name_en": "NFTs2Me",
