@@ -28,7 +28,7 @@ class NavItemList extends PureComponent {
         }
       </>
     ));
-    if (list.length > 8) {
+    if (list.length > 12) {
       node.push(
         <NavExpandItem
           key="NavExpandItem"
